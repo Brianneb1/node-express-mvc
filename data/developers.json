@@ -269,7 +269,14 @@
   },
   {
     "_id": 221,
-    "email": "@nwmissouri.edu"
+    "email": "S529231@nwmissouri.edu",
+    "given": "Brianne",
+    "family": "Bender",
+    "city": "Kansas City",
+    "state": "Missouri",
+    "zip": 64119,
+    "country": "USA",
+    "URL": "https://github.com/brianneb1"
   },
   {
     "_id": 222,
